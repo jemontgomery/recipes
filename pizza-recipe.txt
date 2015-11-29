@@ -1,0 +1,4 @@
+step 1 make pizza
+step 2 add cheese, veg, and sausage
+step 3 back pizza in pizza oven
+step 4 enjoy
